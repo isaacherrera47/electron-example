@@ -1,0 +1,11 @@
+{
+  "name": "hello-world-app",
+  "version": "1.0.0",
+  "description": "Hello world app using Electron",
+  "main": "./main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isaac Herrera",
+  "license": "ISC"
+}
