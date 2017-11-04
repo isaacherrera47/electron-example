@@ -18,5 +18,9 @@
   "homepage": "https://github.com/isaacherrera47/electron-example#readme",
   "devDependencies": {
     "electron": "1.7.9"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
   }
 }
